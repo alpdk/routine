@@ -1,3 +1,0 @@
-C:\Users\Sasha\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\day03.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\day03.dir/objects.a @CMakeFiles\day03.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\day03.dir/objects.a -Wl,--no-whole-archive  -o day03.exe -Wl,--out-implib,libday03.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\day03.dir\linklibs.rsp
